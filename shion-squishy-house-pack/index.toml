@@ -86,6 +86,11 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/runiclib.pw.toml"
+hash = "ea53e1f266236ded756baa6ae49292583fa5f21c5c3134dfef821b11a7f169fb"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
