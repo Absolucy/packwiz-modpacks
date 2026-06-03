@@ -61,6 +61,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/delicate-dyes.pw.toml"
+hash = "6a45e6250660ccd53577079964f74cead7bd9e30b928e4d9136540c281902b08"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
