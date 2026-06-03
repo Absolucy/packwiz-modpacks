@@ -1,0 +1,13 @@
+name = "Sundries"
+filename = "sundries-1.8.3-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q8pvqaSh/versions/yXdyEQrH/sundries-1.8.3-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2617b92ab6313c9be97202acf2dd94ce68ba5a9b7fc9d8bd00a20aa24a160c147c925e19601bed2ffa0e56feda57a1cab9e1a4216c329a794c62551642503274"
+
+[update]
+[update.modrinth]
+mod-id = "q8pvqaSh"
+version = "yXdyEQrH"
