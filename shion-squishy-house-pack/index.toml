@@ -206,6 +206,11 @@ hash = "018eeaa17d34a6010be48e946ad26973e24e125cfdf6f87cbd79f0cd7d5901ce"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
